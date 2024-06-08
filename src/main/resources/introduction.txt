@@ -1,0 +1,18 @@
+==========================================
+    ______      _
+   / ____/___  (_)___ _____ ___  ____ _
+  / __/ / __ \/ / __ `/ __ `__ \/ __ `/
+ / /___/ / / / / /_/ / / / / / / /_/ /
+/_____/_/ /_/_/\__, /_/ /_/ /_/\__,_/
+              /____/
+==========================================
+Select one of the option below:
+1 - Encrypt with a password
+2 - Decrypt with a password
+3 - Generate a shared key
+4 - Encrypt with a shared key
+5 - Decrypt with a shared key
+6 - Generate a public and private keys
+7 - Encrypt with a public key
+8 - Decrypt with a private key
+9 - Generate a digital certificate
